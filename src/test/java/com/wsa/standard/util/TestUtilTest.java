@@ -25,5 +25,6 @@ public class TestUtilTest {
         assertThat(cmd).isEqualTo("등록");
         assertThat(content).isEqualTo("죽고자 하면 살 것이고, 살고자 하면 죽을 것이다.");
         assertThat(author).isEqualTo("이순신");
+
     }
 }
