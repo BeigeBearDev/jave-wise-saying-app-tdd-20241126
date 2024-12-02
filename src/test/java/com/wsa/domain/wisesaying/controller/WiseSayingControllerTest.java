@@ -1,5 +1,6 @@
 package com.wsa.domain.wisesaying.controller;
 
+import com.wsa.App.App;
 import com.wsa.standard.util.TestUtil;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
