@@ -1,4 +1,4 @@
-package com.wsa.App;
+package com.wsa;
 
 import java.util.Scanner;
 

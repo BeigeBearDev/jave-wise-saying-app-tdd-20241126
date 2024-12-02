@@ -1,6 +1,5 @@
 package com.wsa;
 
-import com.wsa.App.App;
 import com.wsa.standard.util.TestUtil;
 
 import java.io.ByteArrayOutputStream;
