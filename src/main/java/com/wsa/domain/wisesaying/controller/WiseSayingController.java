@@ -25,7 +25,7 @@ public class WiseSayingController {
 
         int id = ++lastId;
 
-        WiseSaying wiseSaying = new WiseSaying(id, author, author);
+        WiseSaying wiseSaying = new WiseSaying(id, content, author);
         wiseSayings.add(wiseSaying);
 
         System.out.println(id +"번 명언이 등록되었습니다.");
